@@ -1,0 +1,3 @@
+USERNAME: hello
+PASSWORD: bye
+FILE_SHARE: allowed
